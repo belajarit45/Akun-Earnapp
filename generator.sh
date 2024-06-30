@@ -38,7 +38,7 @@ fi
 
 # Mulai menulis ke docker-compose.yaml (overwrite jika sudah ada)
 cat <<EOT > docker-compose.yaml
-version: "3.3"
+version: "3.8"
 services:
 EOT
 
